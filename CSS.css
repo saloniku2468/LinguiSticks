@@ -1,0 +1,12 @@
+#profile{
+  height: 200px;
+  vertical-align: middle;
+}
+
+#header {
+  border: 5px solid #84929B;
+  padding 2px;
+  font-size: 62px;
+  font-family: "Lucida Fax", sans-serif;
+  margin: 10px 350px 10px 350px;
+}
